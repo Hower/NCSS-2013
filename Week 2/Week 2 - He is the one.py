@@ -1,0 +1,1 @@
+ones=lambda x:[[0 if y!=z else 1 for y in range(x)]for z in range(x)]
