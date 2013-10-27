@@ -1,4 +1,4 @@
 NCSS-2013
 =========
 
-NCSS Challenge solutions
+NCSS Challenge (Advanced) solutions
